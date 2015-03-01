@@ -1,0 +1,19 @@
+canvas.heatmap
+{
+	background-color: #000000;
+	width: 500px;
+	height: 500px;
+	display: relative-inline;
+	position: absolute;
+	margin: auto;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	top: 0;
+	border: 2px solid black;
+}
+
+body 
+{
+	background-color: #333333;
+}
